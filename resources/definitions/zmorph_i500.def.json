@@ -6,7 +6,7 @@
         "visible": true,
         "author": "Zmorph",
         "manufacturer": "Zmorph S.A.",
-        "file_formats": "text/x-gcode",
+        "file_formats": "application/x-ufp;text/x-gcode",
         "platform": "zmorph_i500_platform.stl",
         "platform_offset": [-243, -84, 168],
         "preferred_quality_type": "fast",
